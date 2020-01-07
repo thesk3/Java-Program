@@ -85,6 +85,7 @@ public class Elevgram {
 		
 		return isFound;
 	}
+	
 
 	private static int[] foundNumber(int[] temp) {
 		int temp1[]=new int[1000000000];
